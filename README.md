@@ -1,2 +1,4 @@
 # helloworld2
-Just another repository
+Hello humans!
+
+Schnydszch here. I like arugula (rockets) in my salad!
